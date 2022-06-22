@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "100%" src="https://www.polygon.com/2018/1/16/16898036/thor-chris-hemsworth-marvel-avengers" alt="cover" />
+<img width="100%" height = "100%" src="https://cdn.vox-cdn.com/thumbor/TNnfYSENJpZcnlT5WPd4Mr95fmw=/0x0:4200x2600/920x613/filters:focal(1574x748:2246x1420):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58344099/thor_big.0.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
