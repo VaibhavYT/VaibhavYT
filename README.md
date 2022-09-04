@@ -12,7 +12,7 @@
 <div size='20px'> Hi! My name is Vaibhav Jaiswal. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://www.google.com/search?q=github+readme+animated+gif&sxsrf=ALiCzsZF_kxSep3F5PDhqII8SChfxHq0PQ:1662292896320&source=lnms&tbm=isch&sa=X&ved=2ahUKEwig5OPMi_v5AhUST3wKHfjXCKMQ_AUoAXoECAEQAw&biw=1536&bih=792&dpr=1.25#imgrc=e9hPImsTmTzH1M&imgdii=qRqPGQGzz-jpWM" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
