@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter And DSA<br>👯 I’m looking to collaborate on Flutter Projects<br>🤝 I’m looking for help with Flutter Knowledge<br>🌱 I’m currently learning Javascript<br>💬 Ask me about DSA And Development<br>⚡ Fun fact I am Chemical Engineer 😁✌️
+🔭 I’m currently working on Flutter And DSA<br>👯 I’m looking to collaborate on Flutter Projects<br>🤝 I’m looking for help with Flutter Knowledge<br>🌱 I’m currently learning Javascript<br>💬 Ask me about DSA And Development<br>⚡
 
 
 ## 🌐 Socials:
