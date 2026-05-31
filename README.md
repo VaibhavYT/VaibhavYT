@@ -6,7 +6,18 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter And DSA<br>👯 I’m looking to collaborate on Flutter Projects<br>🤝 I’m looking for help with Flutter Knowledge<br>🌱 I’m currently learning Javascript<br>💬 Ask me about DSA And Development<br>
+🔭 Building open-source AI products, agentic systems, and developer tools
+
+🤖 Focused on LLMs, AI Agents, RAG, and AI-powered automation
+
+📱 Crafting production-grade applications with Flutter, Next.js, Supabase, and modern cloud infrastructure
+
+🌱 Exploring advanced AI engineering, distributed systems, and software architecture
+
+💬 Ask me about AI Engineering, Flutter, Next.js, System Design, DSA, and Product Development
+
+🚀 Mission: Creating AI-native products that empower developers and builders worldwide
+
 
 
 ## 🌐 Socials:
