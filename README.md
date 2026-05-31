@@ -1,6 +1,9 @@
 <!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"> -->
 ![img_back](https://github.com/VaibhavYT/VaibhavYT/assets/78371075/0728c1f1-a45e-4f84-9781-7841b5c087af)
-
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![AI](https://img.shields.io/badge/AI-Agentic%20Systems-gold)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
 
 # 💫 About Me:
 🔭 I’m currently working on Flutter And DSA<br>👯 I’m looking to collaborate on Flutter Projects<br>🤝 I’m looking for help with Flutter Knowledge<br>🌱 I’m currently learning Javascript<br>💬 Ask me about DSA And Development<br>
